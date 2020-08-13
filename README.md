@@ -49,7 +49,7 @@ This would fork `gatsby-starter-foundation` to your Github account and start bui
 - Go to app.netlify.com > select your website from the list
 - Go to identity and Click **Enable Identiy**
 - Next visit **site-name.netlify.app/admin/**, and sign-up for an account.
-- Verify your email.
+- Verify your email and then login.
 
 ## 📝 Editing content and Adding posts
 Once you are in your Netlify CMS, you can navigate to Posts and Pages. Here you will find a list of existing pages and posts. 
