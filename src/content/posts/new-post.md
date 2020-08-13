@@ -5,7 +5,7 @@ slug: bonjour
 date: 2010-11-28 08:00
 description: My first post on this new darrenbeattie.com blog. Mostly just
   announcing I'm here and what I plan to do with this URL.
-featuredImage: ""
+featuredImage: /assets/sebastiaan-stam-5hbrem-5mnq-unsplash.jpg
 ---
 If you’re looking for info on Darren Beattie, you’ve come to the right place. Check out my work history on [LinkedIn](https://www.linkedin.com/in/dbeattie/).
 
